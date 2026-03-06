@@ -100,4 +100,16 @@
 
 ---
 
+# 📊 GitHub Stats
+
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DINESHSUTHAR427show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DINESHSUTHAR427&theme=tokyonight)
+
+---
+
 ⭐ *“I enjoy building backend systems that are clean, scalable, and reliable.”*

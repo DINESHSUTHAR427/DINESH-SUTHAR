@@ -1,8 +1,7 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
+<h1 align="center">👋 Hi, I'm Dinesh</h1>
 
 <p align="center">
-🚀 Backend Developer | Node.js | FastAPI | MERN Stack
+💻 Backend Developer | Node.js | FastAPI | MERN Stack
 </p>
 
 <p align="center">
@@ -11,19 +10,17 @@
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-💡 I enjoy building **scalable backend systems and APIs** that power modern web applications.
-
-- 🔭 Currently working on **Backend Projects & APIs**
-- 🌱 Learning **AI integrations & Cloud Deployment**
-- ⚡ Strong in **Node.js, Express, MongoDB, FastAPI**
-- 🧠 Interested in **System Design & Backend Architecture**
-- 🎯 Goal: Become a **Senior Backend Engineer**
+- 🚀 Backend-focused developer who loves building scalable APIs  
+- 🧠 Interested in **AI integrations & backend architecture**
+- ⚡ Experienced with **Node.js, Express.js, MongoDB, FastAPI**
+- 🛠 Built a **MERN Blog Application with JWT Authentication**
+- ☁️ Learning **Cloud Deployment (AWS, Vercel)**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -45,73 +42,80 @@
 
 # 🚀 Tech Stack
 
+
 ### 💻 Backend
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 
-### 🧠 Languages
+---
+
+### 🧠 Programming Languages
+
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python)
 
+---
+
 ### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
 
+---
+
 ### 🗄 Databases
+
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
 
-### ☁️ Cloud
+---
+
+### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge)
+![S3](https://img.shields.io/badge/AWS-S3-red?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-# 🚀 Projects
+# 📂 Projects
 
 ### 📝 MERN Blog Application
-- Authentication using **JWT**
-- Full **CRUD APIs**
-- Built with **Node.js, Express, MongoDB**
-- Structured backend using **MVC architecture**
+
+- Built using **Node.js, Express.js, MongoDB**
+- Implemented **JWT Authentication**
+- REST APIs for **Users, Blogs, Comments**
+- Structured backend using **controllers, routes, models, middleware**
+
+---
 
 ### 🌐 Portfolio Website
-- Built using **React**
-- Fully responsive UI
-- Showcases projects & skills
+
+- Built with **React, HTML, CSS**
+- Responsive design
+- Showcases projects and skills
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DINESHSUTHAR427show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=DINESHSUTHAR427&theme=tokyonight)
 
 ---
 
-# 🐍 Contribution Snake
+⭐ *“I enjoy building backend systems that are clean, scalable, and reliable.”*
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ *"I love building backend systems that are scalable, reliable, and efficient."*

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Dinesh</h1>
+<h1 align="center">👋 Hi, I'm Dinesh Suthar</h1>
 
 <p align="center">
 💻 Backend Developer | Node.js | FastAPI | MERN Stack
